@@ -1,0 +1,195 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html{
+	height: 100%;
+}
+
+
+#contenu00{
+	display: flex;
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	
+}
+
+.blocg{
+	background-color: #8c8c8c;
+	width: 20%;
+	font-family: 'Dancing Script', cursive;
+	font-size: 20px;
+	bottom: 0;
+}
+
+.moi{
+	width: 50%;
+	margin-left: 25%;
+}
+
+h1{
+	text-align: center;
+}
+
+.p01{
+	text-align: center;
+}
+
+#contenu01{
+ 	display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+    width: 100%;
+   
+}
+
+.dingo{
+	width: 100%;	
+}
+
+.droite01{
+	position: center;
+	width: 60%;
+	margin-left: 10%;
+}
+.droite02{
+	margin-right: 30%;
+	width: 40%;
+	padding-top: 10%;
+
+}
+
+.lang{
+	text-align: center;
+
+}
+
+.competence{
+	text-align: center;
+}
+
+.loisir{
+	text-align: center;
+}
+
+#contenu02{
+display: flex;
+justify-content: center;
+flex-wrap: nowrap;
+width: 100%;
+}
+
+.goku00{
+	margin-left: 5%;
+	width: 33%;
+}
+
+.goku{
+	width: 90%;
+}
+
+.snoopy00{
+	width: 34%;
+}
+.snoopy{
+	width: 80%;
+}
+
+.ol00{
+	width: 33%;
+}
+
+.ol{
+	width: 90%;
+}
+
+.blocd{
+	font-family: 'El Messiri', sans-serif;
+	color: white;
+	font-size: 25px;
+	background: url(img/fond.jpg) fixed no-repeat center;
+	width: 80%;
+	text-align: center;
+
+
+}
+
+.exp{
+	font-size: 50px;
+	border: 1px solid white;
+	border-radius: 50%;
+		text-transform: uppercase;
+        background: url(img/neige.gif);
+        -webkit-background-clip:text;
+        -webkit-text-fill-color:transparent;
+}
+a{
+	/*text-decoration: none;
+	color: #B1B0B0;*/
+
+	padding: 1px;
+	height: 50px;
+	line-height: 50px;
+	width: 200px;
+	background-color: #131313;
+	color: #FFFFFF;
+	border-radius: 10px;
+	text-decoration: none;
+
+	transition-property: background-color;
+    transition-duration: 1s;
+}
+
+a:hover {
+	background-color: #808485;
+}
+
+
+/*page 2*/
+
+#page2{
+	font-family: 'El Messiri', sans-serif;
+	font-size: 25px;
+	color: white;
+	background: url(img/fond.jpg) fixed no-repeat center;
+	text-align: center;
+
+}
+
+#conteneur03{
+display: flex;
+justify-content: center;
+flex-wrap: nowrap;
+width: 100%;
+}
+
+.bloc02{
+width: 70%;
+
+}
+
+.bloc03{
+width: 10%;
+
+}
+
+#footer {
+	
+	height:10%;
+	width: 100%;
+	
+	position: absolute;
+	
+
+}
+
+#copyright{
+	
+	font-size: 20px;
+	float: right;
+	padding-right: 2%;
+
+}
