@@ -111,6 +111,7 @@ width: 100%;
 	color: white;
 	font-size: 25px;
 	background: url(img/fond.jpg) fixed no-repeat center;
+	background-size: cover;
 	width: 80%;
 	text-align: center;
 
