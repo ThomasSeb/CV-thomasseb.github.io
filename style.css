@@ -157,7 +157,7 @@ a:hover {
 	font-family: 'El Messiri', sans-serif;
 	font-size: 25px;
 	color: white;
-	background: url(img/fond.jpg) fixed no-repeat center;
+	background: url(img/fond.jpg) no-repeat center fixed;
 	text-align: center;
 
 }
