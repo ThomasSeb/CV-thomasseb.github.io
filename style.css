@@ -160,6 +160,7 @@ a:hover {
 	background: url(img/fond.jpg) no-repeat center fixed;
 	-webkit-background-size: cover;
 	background-size: cover;
+	height: 100%;
 	text-align: center;
 
 }
